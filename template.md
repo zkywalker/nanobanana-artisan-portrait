@@ -21,7 +21,7 @@ aspect: "3:4"
 difficulty: beginner
 category: art
 samples:
-  - file: samples/sample-01.png
+  - file: samples/sample-3-pro-01.png
     model: gemini-3-pro-image-preview
     prompt: "A photorealistic environmental portrait of an elderly Japanese ceramicist carefully shaping a bowl on a potter's wheel, in a rustic workshop filled with clay tools and unfinished pottery. Lit by warm golden-hour window light and captured with an 85mm portrait lens with shallow depth of field. Quiet mastery, tactile craftsmanship, and grounded realism."
     aspect: "3:4"
