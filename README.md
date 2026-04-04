@@ -1,6 +1,6 @@
 # Environmental Artisan Portrait
 
-Official-style Nano Banana template for environmental portraits with strong occupational storytelling.
+Official-style BananaHub template for environmental portraits with strong occupational storytelling.
 
 This template is designed around Google Gemini image prompting guidance:
 
@@ -17,8 +17,8 @@ npx bananahub add zkywalker/nanobanana-artisan-portrait
 ## Use
 
 ```text
-/nanobanana use artisan-portrait
-/nanobanana use artisan-portrait 一位在陶艺工作室里专注拉坯制碗的老年陶艺师
+/bananahub use artisan-portrait
+/bananahub use artisan-portrait 一位在陶艺工作室里专注拉坯制碗的老年陶艺师
 ```
 
 The sample image in this repo validates the default pottery-workshop prompt. The custom example above stays in the same subject family to avoid mismatching the sample preview with a very different occupation.
